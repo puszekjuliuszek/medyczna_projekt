@@ -194,6 +194,7 @@ cython_debug/
 .cursorindexingignore
 
 Raw_Recordings/
+Surowe/
 Mechanocardiograms/
 combined-measurement-of-ecg-breathing-and-seismocardiograms-1.0.0.zip
 files/
